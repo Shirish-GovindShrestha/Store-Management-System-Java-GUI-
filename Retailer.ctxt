@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Retailer
+comment0.text=\r\n\ Retailer\ Class\r\n\r\n\ @Shirish\ Govind\ Shrestha\r\n\ @1.0\r\n
+comment1.params=storeID\ storeName\ location\ openingHour\ totalSales\ totalDiscount\ vatInclusivePrice\ purchasedYear\ isPaymentOnline
+comment1.target=Retailer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Retailer\ \r\n
+comment2.params=
+comment2.target=int\ getVatInclusivePrice()
+comment3.params=
+comment3.target=int\ getLoyaltyPoint()
+comment4.params=
+comment4.target=java.lang.String\ getPurchasedYear()
+comment5.params=
+comment5.target=boolean\ isPaymentOnline()
+comment6.params=isPaymentOnline
+comment6.target=void\ setIsPaymentOnline(boolean)
+comment6.text=mutator\ method\r\nSets\ value\ for\ PaymentOnline
+comment7.params=isPaymentOnline\ vatInclusivePrice
+comment7.target=void\ setLoyaltyPoint(boolean,\ int)
+comment8.params=
+comment8.target=void\ removeProduct()
+comment9.params=
+comment9.target=void\ display()
+comment9.text=\ Display\ method\r\n\ displays\ the\ attributes\ of\ the\ Retailer\ and\ Store\r\nmethod\ overriding
+numComments=10
